@@ -1,9 +1,11 @@
-## Hi, I’m Veronica Gill
+# Veronica Gill
 
-I build software that turns real operational needs into workflows people can use and verify. I’m focused on AI implementation and forward-deployed engineering, especially API integrations, workflow design, and human review.
+I’m a customer-facing systems builder moving into applied AI implementation. I draw on years in customer service and operations to understand how people work, then build and test software around their needs.
 
-- **Ovvu One** uses structured patient check-ins to surface when clinic staff should follow up. The case study walks through a Firebase design that separates check-in history from current state.
-- **[Current Drop](https://currentdrop.com/builtbyv/case-studies/current-drop)** turns sourced research into a pitch that a person can review before outreach.
-- **Exist** is a local React and TypeScript app for planning, journaling, and training. The walkthrough shows what gets saved when a workout changes mid-session.
+[Built by V](https://currentdrop.com/builtbyv) · [LinkedIn](https://www.linkedin.com/in/veronica-gill-255172423)
 
-[Explore the case studies and walkthroughs at Built by V](https://currentdrop.com/builtbyv)
+### Featured projects
+
+- [Exist](https://currentdrop.com/builtbyv/case-studies/exist) — A local React, TypeScript, and Node.js app for daily planning, journaling, and fitness.
+- [Current Drop](https://currentdrop.com/builtbyv/case-studies/current-drop#walkthrough) — An AI-assisted workflow that turns sourced research into a pitch for human review.
+- [Ovvu One](https://currentdrop.com/builtbyv/case-studies/ovvu-one) — A Firebase case study on turning structured patient check-ins into a staff follow-up queue.
